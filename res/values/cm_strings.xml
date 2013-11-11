@@ -118,4 +118,23 @@
     <string name="pref_keyboard_new_line">Show the Enter key</string>
     <string name="pref_keyboard_unknown">Unknown, please reselect</string>
 
+    <!-- Settings item for boolean option for SMS Split Counter -->
+    <string name="pref_title_sms_split_counter">Split counter</string>
+    <!-- Settings item description for boolean SMS Split 160 characters setting -->
+    <string name="pref_summary_sms_split_counter">Adds counter to message ex. (1/2)</string>
+
+    <!-- Generic blacklist handling -->
+    <string name="alert_dialog_yes">Yes</string>
+    <string name="alert_dialog_no">No</string>
+
+    <!-- Multi recipients -->
+    <string name="select_recipients">Select recipients</string>
+    <string name="groups_header">Groups</string>
+    <string name="no_recipients">No contacts found</string>
+    <string name="no_recipients_mobile_only">No matching contacts found. Try without the \'Mobile numbers only\' filter</string>
+    <string name="menu_done">Done</string>
+    <string name="menu_mobile">Mobile numbers only</string>
+    <string name="menu_groups">Show groups</string>
+    <string name="fastscroll_index_groups">GR</string> <!-- CHAR LIMIT=3 -->
+
 </resources>
